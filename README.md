@@ -12,7 +12,7 @@ Hola, soy Samuel Dos Reis!
 
 🔭 Me apasiona buscar nuevos retos, lo que me ha llevado a adquirir conocimientos en diversas tecnologías.
 
-🌱 Actualmente estoy aprendiendo GDScript mientras desarrollo mi primer juego.
+🌱 Actualmente estoy aprendiendo GDScript mientras desarrollo mi primer juego. 🎮
 
 👯 Disfruto trabajar en equipo y colaborar en un entorno dinámico.
 
@@ -22,4 +22,9 @@ Hola, soy Samuel Dos Reis!
 
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
+<h3 align="center">Algunos de mis proyectos:</h3>
+<p style="color: black;">
+	Tengo mas proyectos que por diversas razones no puedo mostrar, estos son apenas algunos de ellos.
 </p>
